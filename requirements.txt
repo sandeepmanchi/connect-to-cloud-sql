@@ -1,0 +1,6 @@
+# Function dependencies, for example:
+# package>=version
+
+sqlalchemy
+pymysql
+google-cloud-secret-manager==0.1.1
